@@ -120,3 +120,6 @@ dist/protocol.schema.json
 
 # Synthing
 **/.stfolder/
+.arts/
+*.ini
+README_EN.md
