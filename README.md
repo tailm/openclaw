@@ -111,7 +111,7 @@ pnpm gateway:watch
 
 [~/openclaw] → main$ ./openclaw.mjs gateway
 
-🦞 OpenClaw 2026.3.2 (6bf1abf)
+🦞 OpenClaw 2026.03.03 (6bf1abf)
 I'm not magic—I'm just extremely persistent with retries and coping strategies.
 
 07:47:13 [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/zwj/.openclaw/canvas)
