@@ -122,7 +122,7 @@ I'm not magic—I'm just extremely persistent with retries and coping strategies
 
 ## 网关浏览器操作
 
-浏览器打开：http://127.0.0.1:18789/ ，在“控制“--”概述“页面，输入令牌参数：acbf1。。6f603；
+浏览器打开：http://127.0.0.1:18789/ ，在“控制“--”概览“页面，输入令牌参数：acbf1。。6f603；
 
 注意：`pnpm openclaw ...` 直接运行 TypeScript（通过 `tsx`）。`pnpm build` 生成 `dist/` 用于通过 Node / 打包的 `openclaw` 二进制文件运行。
 
